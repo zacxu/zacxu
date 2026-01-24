@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning multi-agent behaviour and game theory.
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
