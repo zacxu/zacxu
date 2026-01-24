@@ -3,7 +3,7 @@
 
 
 👩🏻‍🎓 Computer Engineering undergraduate with a minor in math <br/>
-- 💭 Currently interested in multi-agent systems, computational game theory and optimization <br/>
+- 💭 Currently interested in multi-agent systems, computational game theory and optimization 
 - 🔭 I’m currently conducting research on non-equilibrim thermodynamics. Research thesis: Discretization on Stochastic Thermodynamical Systems
 - 🔭 I’m currently working on deep learning projects
 - 🌱 I’m currently learning multi-agent behaviour and game theory.
@@ -19,7 +19,7 @@
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
