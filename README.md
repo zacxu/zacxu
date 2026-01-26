@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@:Zac?name=%3AZac&theme=moebooru&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=73110">
+        <img align="left" alt="count" src="https://count.getloli.com/@zac?name=zac&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=07734">
     </p>
 </div>
 
