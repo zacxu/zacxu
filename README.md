@@ -1,8 +1,9 @@
 <div align="center">
     <p>
-        <img align="left" alt="count" src="https://count.getloli.com/@zac?name=zac&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=07734">
+        <img align="center" alt="count" src="https://count.getloli.com/@zac?name=zac&theme=moebooru&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=07734">
     </p>
 </div>
+
 
 
 ## Hi there, I'm Zixuan 👋
