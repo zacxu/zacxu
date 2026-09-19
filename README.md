@@ -11,10 +11,11 @@
 
 
 👩🏻‍🎓 Computer Engineering undergraduate with a minor in math <br/>
-- 💭 Currently interested in multi-agent systems, computational game theory and optimization 
-- 🔭 I’m currently conducting research on non-equilibrim thermodynamics. Research thesis: Discretization on Stochastic Thermodynamical Systems
-- 🔭 I’m currently working on deep learning projects
-- 🌱 I’m currently learning multi-agent behaviour and game theory.
+- 💭 Currently interested in multi-agent systems, World models and computational game theory.
+- 🔭 I’ve previously conducted research in Stochastic Thermodynamical Systems. You may read my paper in my repository!
+- 🔭 I am embarking on a new research area, Adaptive World Models for autonomous Intelligence.
+- 🔭 I’m currently working on deep learning projects.
+- 🌱 I’m currently learning World Models(V-JEPA), multi-agent interaction & behaviour, Agents for Arc-AGI and Agents for NP-hard problems.
 
 
 ## 💻 Tech Stack
