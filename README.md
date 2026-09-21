@@ -11,7 +11,7 @@
 
 
 👩🏻‍🎓 Computer Engineering undergraduate with a minor in math <br/>
-- 💭 Currently interested in multi-agent systems, World models and computational game theory.
+- 💭 Currently interested in multi-agent systems, World models, Agentic AI and computational game theory.
 - 🔭 I’ve previously conducted research in Stochastic Thermodynamical Systems. You may read my paper in my repository!
 - 🔭 I am embarking on a new research area, Adaptive World Models for autonomous Intelligence.
 - 🔭 I’m currently working on deep learning projects.
